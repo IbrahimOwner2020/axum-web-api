@@ -13,5 +13,5 @@ This Rust backend API is designed to help in learn rust programming language. It
 Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repo.git
+git clone https://github.com/IbrahimOwner2020/axum-web-api.git
 cd your_repo

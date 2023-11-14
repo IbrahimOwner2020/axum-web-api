@@ -1,7 +1,3 @@
----
-title: Rust Backend API
----
-
 # Rust Backend API
 
 Welcome to the Rust Backend API project! This simple backend provides notes app api.

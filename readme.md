@@ -14,4 +14,5 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/IbrahimOwner2020/axum-web-api.git
-cd your_repo
+cd axum-web-api
+cargo run
